@@ -53,4 +53,9 @@ jobs:
       # actualizar el archivo README.md
       #----------------------------------------------      
       - name: Actualizar Readme
-        run: poetry run python update_readme.py 
+        run: poetry run python update_readme.py
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Actualiza README.md
+          file_pattern: README.md
