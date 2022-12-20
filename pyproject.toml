@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "ultimos-articulos"
+version = "0.1.0"
+description = ""
+authors = ["linuxman <inguanzo@gmail.com>"]
+readme = "README.md"
+packages = [{include = "ultimos_articulos"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+rss-parser = "^0.2.4"
+jinja2 = "^3.1.2"
+feedparser = "^6.0.10"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
