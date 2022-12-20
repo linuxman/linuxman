@@ -49,3 +49,8 @@ jobs:
       - name: Install dependencies
         if: steps.cached-poetry-dependencies.outputs.cache-hit != 'true'
         run: poetry install --no-interaction --no-root
+      #----------------------------------------------
+      # actualizar el archivo README.md
+      #----------------------------------------------      
+      - name: Actualizar Readme
+        run: poetry run python update_readme.py 
