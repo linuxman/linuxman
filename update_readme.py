@@ -28,8 +28,7 @@ def get_latest_articles(num_items: int = 5) -> ContentPieces:
     """
     Obtener los últimos artículos del feed.
     """
-    entries = _parse_feed()
-    # print(entries)
+    entries = _parse_feed()    
 
     data = []
     for entry in entries[:num_items]:  # should have newest first
