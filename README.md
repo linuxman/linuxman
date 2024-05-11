@@ -6,7 +6,7 @@
 ### Latest articles.
 
 
-  * <a href="https://linuxmanr4.com/2024/04/26/aprendiendo-react-mi-experiencia/" target="_blank">Aprendiendo React, mi experiencia.</a> - 2024-04-26
+  * <a href="https://linuxmanr4.com/2024/04/26/aprendiendo-react-mi-experiencia/" target="_blank">Aprendiendo React, Mi experiencia.</a> - 2024-04-26
 
   * <a href="https://linuxmanr4.com/2024/04/06/desactiva-las-animaciones-de-inicio-de-manjaro-bye-bye-plymouth/" target="_blank">Desactiva las animaciones de inicio de Manjaro ¡Bye bye Plymouth!</a> - 2024-04-06
 
