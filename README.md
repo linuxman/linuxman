@@ -6,7 +6,7 @@
 ### Latest articles.
 
 
-  * <a href="https://linuxmanr4.com/2025/04/24/web-estatico-eleventy-javascript/" target="_blank">Un sitio web estático con Eleventy: Las lecciones aprendidas</a> - 2025-04-24
+  * <a href="https://linuxmanr4.com/2025/04/24/web-estatico-eleventy-javascript/" target="_blank">Sitio web estático con Eleventy (11ty): Rápido y personalizable.</a> - 2025-04-24
 
   * <a href="https://linuxmanr4.com/2025/03/28/alerta-clima-python-telegram/" target="_blank">Automatiza Alertas Climáticas con Python y Telegram: Que nunca más te sorprenda una tormenta</a> - 2025-03-28
 
