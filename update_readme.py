@@ -7,7 +7,7 @@ import typing
 ROOT_DIR = pathlib.Path(__file__).parent.resolve()
 README_FILE = ROOT_DIR / "README.md"
 TEMPLATE_FILE = ROOT_DIR / "TEMPLATE.md"
-ARTICLE_FEED = "https://linuxmanr4.com/feed/"
+ARTICLE_FEED = "https://linuxmanr4.com/index.xml"
 
 
 class ContentPiece(typing.NamedTuple):
