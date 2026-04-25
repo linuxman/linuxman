@@ -9,4 +9,4 @@
   * <a href="{{ article.url }}" target="_blank">{{ article.title }}</a> - {{ article.date }}
 {% endfor %}
 
-[More articles...](https://linuxmanr4.com/archivo-general/)
+[More articles...](https://linuxmanr4.com/archivos/)
