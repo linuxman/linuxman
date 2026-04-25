@@ -17,4 +17,4 @@
   * <a href="https://linuxmanr4.com/p/linux-32bits-netbook-acer-ao751h/" target="_blank">Buscando distribuciones Linux de 32 bits para mi netbook</a> - 2026-01-30
 
 
-[More articles...](https://linuxmanr4.com/archivo-general/)
+[More articles...](https://linuxmanr4.com/archivos/)
