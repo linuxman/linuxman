@@ -6,6 +6,8 @@
 ### Latest articles.
 
 
+  * <a href="https://linuxmanr4.com/p/cambio-de-una-llave-de-una-estufa-mabe/" target="_blank">Cambio de una llave de una estufa Mabe</a> - 2026-06-16
+
   * <a href="https://linuxmanr4.com/p/buscando-la-bandeja-de-tramites-miregistrocivil/" target="_blank">Buscando la bandeja de trámites en miregistrocivil.gob.mx</a> - 2026-06-02
 
   * <a href="https://linuxmanr4.com/p/reflexiones-inconexas-mexico/" target="_blank">Reflexiones inconexas sobre México y su gobierno</a> - 2026-05-19
@@ -13,8 +15,6 @@
   * <a href="https://linuxmanr4.com/p/numa-dns-cache/" target="_blank">Probando NUMA: un DNS local ultrarrápido y fácil de usar</a> - 2026-05-12
 
   * <a href="https://linuxmanr4.com/p/lenovo-bios-pin/" target="_blank">Algo pasó y tu PIN ya no esta disponible</a> - 2026-04-28
-
-  * <a href="https://linuxmanr4.com/p/medicatusb-ntfs/" target="_blank">Problemas al crear una USB con Medicat, no recordaba que fuera tan complicado</a> - 2026-04-24
 
 
 [More articles...](https://linuxmanr4.com/archivos/)
